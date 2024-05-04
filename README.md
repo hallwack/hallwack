@@ -1,5 +1,7 @@
 ### Hi there, I'm Raihan Adam 👋
 
+No need to use auto commit bot to green the account
+
 <!--
 **hallwack/hallwack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
